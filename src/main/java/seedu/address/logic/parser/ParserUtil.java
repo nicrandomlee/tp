@@ -86,6 +86,7 @@ public class ParserUtil {
             throw new RuntimeException();
         }
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     }
 
     /**
@@ -101,8 +102,6 @@ public class ParserUtil {
         } catch (ParseException pe) {
             throw new RuntimeException();
         }
-=======
->>>>>>> Stashed changes
     }
 
     /**
