@@ -499,7 +499,7 @@ Action     | Format, Examples
 **Filter** | `filter TAG [MORE_TAGS]` <br> e.g., `filter CSGOD CS2103`
 **List** | `list`
 **Help** | `help`
-**Sort** | `sort`
+**Sort** | `sort /byDESCRIPTION /reverse` <br> e.g., `sort /byname /reverse`
 **addEvent** | `addEvent d/DESCRIPTION ts/START_DATE_TIME te/END_DATE_TIME` <br> e.g., `addEvent d/Cry about deadlines ts/2023-01-01 00:01 te/2023-12-31 23:59`
 **deleteEvent** | `deleteEvent DATE_TIME` <br> e.g., `deleteEvent 2023-02-03 12:00`
 **addContactEvent** | `addContactEvent INDEX d/DESCRIPTION ts/START_DATE_TIME te/END_DATE_TIME` <br> e.g., `addContactEvent 1 d/Cry about deadlines ts/2023-01-01 00:01 te/2023-12-31 23:59`
